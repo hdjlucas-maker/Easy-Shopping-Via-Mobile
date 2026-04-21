@@ -15,7 +15,7 @@ Construir uma página web simples, mas funcional, aplicando:
 - **CSS3**
 
 ## 🌐 Como visualizar
-👉 [Clique aqui para acessar o projeto](https://hdjlucas-maker.github.io/projeto-pt1/)
+👉 [Clique aqui para acessar o projeto](https://hdjlucas-maker.github.io/Easy-Shopping-Via-Mobile/)
 
 ## 📸 Demonstração
 (Adicione aqui uma imagem/print da página para dar impacto visual)
